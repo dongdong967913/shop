@@ -1,0 +1,14 @@
+{
+    "name": "dongdong967913/shop",
+    "description": "shop",
+    "type": "shop",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dong dong",
+            "email": "319354333@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
